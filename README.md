@@ -6,4 +6,4 @@ https://www.openstreetmap.org/copyright
 
 This Snapshot Maintained by OpenStreetMap Kerala Community by Naveen Francis (naveenpf), Manoj Karingamadathil (manojkmohan) and Ark Arjun(arkArjun). 
 
-In this repo, the vector data avalibale in geojson, kml and shape file format. We are making this as a pre-release. If any mistakes-error found fix it in www.openstreetmap.org and report a issues here in repo.
+In this repo, the vector data avalibale in geojson, json format. We are making this as a pre-release. If any mistakes-error found fix it in www.openstreetmap.org and report a issues here in repo.
